@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chauhan</h1>
-<h3 align="center">A passionate coder.</h3>
+<h3 align="center">A passionate coder.
+I write code in the form of codes. </h3>
 
 <p align="left"> <a href="https://twitter.com/1509_abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/1509_abhishek?logo=twitter&style=for-the-badge" alt="1509_abhishek" /></a> </p>
 
