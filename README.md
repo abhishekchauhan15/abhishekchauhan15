@@ -28,15 +28,6 @@ I write thoughts in the form of codes. </h3>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchauhan15&" alt="abhishekchauhan15" /></p> -->
 
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekchauhan15&theme=nightowl&currStreakLabel=DDA523)
 
-
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekchauhan15&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
-
- <br>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=sabhishekchauhan15&show_icons=true&count_private=true&theme=tokyonight)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekchauhan15&show_icons=true)
 
