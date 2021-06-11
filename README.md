@@ -1,5 +1,5 @@
 <p align="center">
-<!--   <img height="180em"  src="https://raw.githubusercontent.com/animesh112/animesh112/master/assets/circle-cropped.png"/> -->
+<!--   <img height="180em"  src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/circle-cropped.png"/> -->
  </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 margin:30px>Hey there! I'm Abhishek </h2>
@@ -16,7 +16,7 @@
 ✉️ &nbsp;You can shoot me an email at abhishekchauhan1509@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
