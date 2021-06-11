@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I pursue <b>Graphic Design</b> and play <b>Badminton🏸</b> as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at abhishekchauhan1509@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://www.abhishekchauhan.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/Night-Coding.gif" align="right"/>
 
@@ -59,6 +59,6 @@
 <a href="https://www.linkedin.com/in/abhishekchauhan15/"><img src="https://img.shields.io/badge/-Abhishek%20Chauhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abhishekchauhan1509@gmail.com"><img src="https://img.shields.io/badge/-abhishekchauhan1509@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_abhishek_chauhan_09/"><img src="https://img.shields.io/badge/-_abhishek_chauhan_09-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 
 </p>
