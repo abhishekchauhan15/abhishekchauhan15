@@ -36,3 +36,7 @@ I write thoughts in the form of codes. </h3>
  <br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=sabhishekchauhan15&show_icons=true&count_private=true&theme=tokyonight)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekchauhan15&show_icons=true)
+
