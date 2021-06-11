@@ -25,13 +25,13 @@ I write thoughts in the form of codes. </h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekchauhan15&show_icons=true&locale=en&layout=compact" alt="abhishekchauhan15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchauhan15&" alt="abhishekchauhan15" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekchauhan15&" alt="abhishekchauhan15" /></p> -->
 
 
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekchauhan15&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhishekchauhan15&theme=nightowl&currStreakLabel=DDA523)](https://git.io/streak-stats)
 
  <br>
 
