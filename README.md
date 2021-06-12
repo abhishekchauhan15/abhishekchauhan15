@@ -57,6 +57,6 @@
 <a href="https://www.linkedin.com/in/abhishekchauhan15/"><img src="https://img.shields.io/badge/-Abhishek%20Chauhan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abhishekchauhan1509@gmail.com"><img src="https://img.shields.io/badge/-abhishekchauhan1509@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_abhishek_chauhan_09/"><img src="https://img.shields.io/badge/-_abhishek_chauhan_09-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<!-- <a href="https://www.pinterest.ca/abhishek"><img src="https://romantic-beaver-da4687.netlify.app/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 
 </p>
