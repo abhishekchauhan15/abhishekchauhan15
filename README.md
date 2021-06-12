@@ -14,7 +14,7 @@
 ✍️ &nbsp;In my free time, I pursue <b>Graphic Design</b> and play <b>Badminton🏸</b> as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at abhishekchauhan1509@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.abhishekchauhan.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://github.com/abhishekchauhan15/Resume/blob/main/AbhishekChauhanResume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/abhishekchauhan15/abhishekchauhan15/master/assets/Night-Coding.gif" align="right"/>
 
@@ -46,8 +46,6 @@
 <p align="center">
 <a href="https://github.com/abhishekchauhan15">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekchauhan15&show_icons=true&theme=algolia"/>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekchauhan15&show_icons=true&locale=en" alt="abhishekchauhan15" /></p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekchauhan15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
